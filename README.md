@@ -149,8 +149,7 @@ Continúo profundizando mis conocimientos en:
 
 Mi CV resume mi formación, proyectos y stack tecnológico.
 
-👉 **[📄 Ver Curriculum Vitae](assets/Juan_Martin_Invaldi_CV.pdf)**
-
+👉 **[📄 Ver Curriculum Vitae](Juan_Martin_Invaldi_CV.pdf)**
 ## 🎥 Demos de Proyectos
 
 Algunos proyectos académicos ya no permanecen desplegados de forma permanente. Por ese motivo, mantengo una carpeta con grabaciones donde se puede observar su funcionamiento, interfaz y principales características.
