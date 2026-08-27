@@ -149,9 +149,10 @@ Continúo profundizando mis conocimientos en:
 
 Mi CV resume mi formación, proyectos y stack tecnológico.
 
-👉 **[Ver Curriculum Vitae](assets/Juan_Martin_Invaldi_CV.pdf)**
+👉 **[📄 Ver CV](https://raw.githubusercontent.com/JuanmaInv/JuanmaInv/main/assets/Juan_Martin_Invaldi_CV.pdf)**  
+👉 **[📥 Descargar CV](https://github.com/JuanmaInv/JuanmaInv/raw/refs/heads/main/assets/Juan_Martin_Invaldi_CV.pdf)**
 
----
+--
 
 ## 🎥 Demos de Proyectos
 
